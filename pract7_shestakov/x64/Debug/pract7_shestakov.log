@@ -1,0 +1,3 @@
+﻿  pract7_shestakov.cpp
+C:\Users\viktor\Desktop\системные\pract7_shestakov\pract7_shestakov.cpp(39,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pract7_shestakov.vcxproj -> C:\Users\viktor\Desktop\системные\pract7_shestakov\x64\Debug\pract7_shestakov.exe
